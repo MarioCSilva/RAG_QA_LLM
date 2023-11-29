@@ -4,7 +4,7 @@ In this repository, I delve into creating a **knowledge-sharing hub** from my ow
 
 In short, **RAG Q&A** (Retrieval-Augmented Generation Question and Answering) is a framework that blends retrieval-based and generation-based approaches. It employs a retriever to find relevant information and, typically, an **LLM** (Large Language Model) as the generator to create contextually rich answers. By definition, LLMs are a type of AI model capable of understanding and generating human-like language, trained on vast amounts of text data to learn the patterns, structures, and context of natural language.
 
-I made one notebook using the free **Llama-2–7b-chat-hf** model (with a 4-bit quantization strategy) for Google Colab, which allows running this software for free, and another notebook using the **OpenAI chat-gpt-3.5-turbo** LLM model using an OpenAI subscription.
+I made one notebook using the free **Llama-2–7b-chat-hf** model (with a 4-bit quantization strategy) for Google Colab, which allows running this software for free, and another notebook using the **OpenAI chat-gpt-3.5-turbo** LLM model using an OpenAI subscription. Please make sure to install the requirements if you're going to use the local version.
 
 For this use case, markdown documentation files were retrieved from three different data sources:
 - [Full-Stack App Documentation](https://crowd-wire.github.io/ProjectDocumentation/): Personal project well documented with markdown files.
