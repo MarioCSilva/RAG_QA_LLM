@@ -1,4 +1,4 @@
-# RAG_Q-A_LLM
+# RAG_Q&A_LLM
 
 In this repository, I delve into creating a **knowledge-sharing hub** from my own data sources where teams can get insights and answers with the ease of a conversation, using the RAG Q&A technique, with the potential to complete the way information is shared within both small and large organizations.
 
