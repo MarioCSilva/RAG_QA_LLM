@@ -11,4 +11,6 @@ For this use case, markdown documentation files were retrieved from three differ
 - [Short SQL Tables Descriptions](https://github.com/JannikArndt/sql-auto-doc/tree/master/Examples): Repository documenting some short SQL tables.
 - [Demo Confluence Space](https://templates.atlassian.net/wiki/spaces/SWPRJ/overview): A public demo confluence space. The chatbot scrapes data in a markdown format.
 
-These documents were chosen because they are typical ways for organizations to document and preserve their projects' knowledge. **The final chatbot extracted knowledge accurately, providing concise and relevant answers, while linking the documents it used.**
+These documents were chosen because they are typical ways for organizations to document and preserve their projects' knowledge.
+
+**The final chatbot extracted knowledge accurately, providing concise and relevant answers, while linking the documents it used.**
