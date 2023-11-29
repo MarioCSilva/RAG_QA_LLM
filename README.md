@@ -2,7 +2,7 @@
 
 In this repository, I delve into creating a **knowledge-sharing hub** from my own data sources where teams can get insights and answers with the ease of a conversation, using the RAG Q&A technique, with the potential to complete the way information is shared within both small and large organizations.
 
-In short, **RAG Q&A** (Retrieval-Augmented Generation Question and Answering) is a framework that blends retrieval-based and generation-based approaches. It employs a retriever to find relevant information and, typically, a **LLM** (Large Language Model) as the generator to create contextually rich answers. By definition, LLMs are a type of AI model capable of understanding and generating human-like language, trained on vast amounts of text data to learn the patterns, structures, and context of natural language.
+In short, **RAG Q&A** (Retrieval-Augmented Generation Question and Answering) is a framework that blends retrieval-based and generation-based approaches. It employs a retriever to find relevant information and, typically, an **LLM** (Large Language Model) as the generator to create contextually rich answers. By definition, LLMs are a type of AI model capable of understanding and generating human-like language, trained on vast amounts of text data to learn the patterns, structures, and context of natural language.
 
 I made one notebook using the free **Llama-2–7b-chat-hf** model (with a 4-bit quantization strategy) for Google Colab, which allows running this software for free, and another notebook using the **OpenAI chat-gpt-3.5-turbo** LLM model using an OpenAI subscription.
 
